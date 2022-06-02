@@ -1,11 +1,22 @@
-# flutter_consume_api_bloc
+# Daily Quotes in flutter
 
-A Flutter project to implement consuming api in bloc pattern.
+A Flutter project to implement api in bloc pattern.
 
-## Getting Started
+## Getting Start:-
 
-important - if you are cloning the repo to your desktop, you will need to perform a packages get / pub get to install any dependencies that the project may have.
+NOTE- if you want to clone this repo so,
 
-Check out flutter how to playlist - All flutter how to in one playlist https://www.youtube.com/watch?v=4oLBxuBjGfI&list=PLj919aSiofd1-8DV9hP4-hOlQWE-yD53h
+1. just clone the repo.
 
-A full flutter tutorial to become a flutter hero: https://www.youtube.com/watch?v=A-macK7KAyM&list=PLj919aSiofd0lTnzXt8VKpZQnGi-SogUD&t=0s
+open in IDE
+
+now go in pubspec.yaml file
+
+2. open terminal or run this command "flutter pub get"
+
+3. now run other command "flutter run"
+
+an now your app is running.
+
+Done :)
+
